@@ -1,0 +1,6 @@
+framework module Pods_AHCommonLib_Tests {
+  umbrella header "Pods-AHCommonLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

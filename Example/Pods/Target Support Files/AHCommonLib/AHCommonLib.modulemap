@@ -1,0 +1,6 @@
+framework module AHCommonLib {
+  umbrella header "AHCommonLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

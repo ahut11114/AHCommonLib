@@ -1,0 +1,16 @@
+PODS:
+  - AHCommonLib (0.1.0)
+
+DEPENDENCIES:
+  - AHCommonLib (from `../`)
+
+EXTERNAL SOURCES:
+  AHCommonLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AHCommonLib: 37fc33022799bebe7fc195145c5725b41b699c17
+
+PODFILE CHECKSUM: 0341aba74c484406e33af061d4a40c8baae519b7
+
+COCOAPODS: 1.5.3
